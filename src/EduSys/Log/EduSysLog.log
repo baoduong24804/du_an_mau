@@ -1,0 +1,104 @@
+2023-10-20 18:54:43 INFO  MainJFrame:959 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 18:54:47 INFO  MainJFrame:1021 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:02:38 INFO  MainJFrame:998 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:02:42 INFO  MainJFrame:1060 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:03:22 INFO  MainJFrame:1000 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:03:27 INFO  MainJFrame:1062 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:09:08 INFO  MainJFrame:1014 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:09:18 INFO  MainJFrame:1076 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:10:04 INFO  MainJFrame:1018 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:10:21 INFO  MainJFrame:1080 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:11:12 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:11:26 INFO  MainJFrame:1021 - Người dùng [NV1] đã đăng nhập vào hệ thống
+2023-10-20 19:11:51 INFO  HocVienDAO:26 - Tài khoản [NV1] thêm học viên
+2023-10-20 19:12:04 INFO  HocVienDAO:36 - Tài khoản [NV1] sữa học viên
+2023-10-20 19:12:08 INFO  MainJFrame:1083 - Tài khoản [NV1] vừa đăng xuất
+2023-10-20 19:15:37 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:15:49 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề ()
+2023-10-20 19:15:55 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:16:22 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:16:27 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề ()
+2023-10-20 19:16:31 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:18:05 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:18:10 INFO  ChuyenDeDAO:46 - Tài khoản [tybao] cập nhật chuyên đề (null)
+2023-10-20 19:18:13 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:19:50 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:19:53 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề ()
+2023-10-20 19:19:56 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:22:35 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:22:40 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề (JAV01)
+2023-10-20 19:22:46 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:27:18 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:27:20 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-10-20 19:31:25 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-10-20 19:31:30 INFO  HocVienDAO:68 - Tài khoản [tybao] sửa người học (AA01638)
+2023-10-20 19:31:40 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề (AI1)
+2023-10-20 19:32:07 INFO  HocVienDAO:68 - Tài khoản [tybao] sửa người học (PS02037)
+2023-10-20 19:32:19 INFO  HocVienDAO:26 - Tài khoản [tybao] thêm học viên có mã người học (AA02037)
+2023-10-20 19:32:37 INFO  NhanVienDAO:41 - Tài khoản [tybao] sửa nhân viên (LongNDH)
+2023-10-20 19:32:51 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-23 20:20:14 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-23 20:20:17 INFO  MainJFrame:1065 - Tài khoản [tybao] vừa đăng xuất
+2023-11-24 12:49:51 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-24 12:50:04 INFO  HocVienDAO:68 - Tài khoản [tybao] sửa người học (AA02771)
+2023-11-24 12:50:12 INFO  HocVienDAO:68 - Tài khoản [tybao] sửa người học (AA01638)
+2023-11-24 12:50:19 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-24 12:51:38 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-24 12:51:45 INFO  HocVienDAO:69 - Tài khoản [tybao] sửa người học (AA01638)
+2023-11-24 14:14:34 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-24 14:14:42 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề (AI1)
+2023-11-24 14:14:47 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-24 14:16:41 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-24 14:16:48 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-24 14:18:42 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-24 14:18:47 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-24 14:20:01 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-24 14:20:06 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:33:50 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:33:59 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:34:35 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:34:42 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:35:48 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:36:37 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:36:42 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:37:24 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:37:32 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:38:25 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:38:30 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:38:44 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:38:48 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:39:08 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:39:17 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:39:38 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:39:43 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:40:03 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:40:08 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:40:36 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:40:40 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:43:03 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:43:14 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 14:45:06 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 14:45:22 INFO  ChuyenDeDAO:45 - Tài khoản [tybao] cập nhật chuyên đề (AP12)
+2023-11-25 14:45:32 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-11-25 16:20:36 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-11-25 16:20:38 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2023-12-05 19:05:35 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2023-12-05 19:05:39 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2024-03-12 14:28:52 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-12 14:29:47 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2024-03-13 10:23:53 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-13 10:24:10 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:48:19 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:49:03 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:50:08 INFO  MainJFrame:1021 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:50:25 INFO  MainJFrame:1083 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:53:07 INFO  MainJFrame:1022 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:53:14 INFO  MainJFrame:1084 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:54:32 INFO  MainJFrame:1033 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:55:27 INFO  MainJFrame:1095 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:55:49 INFO  MainJFrame:1033 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:56:12 INFO  MainJFrame:1095 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:58:21 INFO  MainJFrame:1033 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:58:33 INFO  MainJFrame:1095 - Tài khoản [tybao] vừa đăng xuất
+2024-03-21 14:58:52 INFO  MainJFrame:1033 - Người dùng [tybao] đã đăng nhập vào hệ thống
+2024-03-21 14:59:13 INFO  MainJFrame:1095 - Tài khoản [tybao] vừa đăng xuất
